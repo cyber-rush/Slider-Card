@@ -4,4 +4,7 @@
 
 body {
   background: #121313;
+  color: white;
+  min-width: 650px;
+  overflow: auto/scroll;
 }
